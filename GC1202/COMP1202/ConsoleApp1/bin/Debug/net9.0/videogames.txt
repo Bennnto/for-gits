@@ -1,0 +1,21 @@
+8535 | Luigi Mansion 3 | $24.99 | $3
+1922 | Mario Cart | $24.99 | $3
+Mario Cart | 5994 | 24.99 | 4
+ | 0 | 0 | 0
+9911 | Mario_cart | 24.88 | 4
+4393 | Mario Tennis | 29.99 | 3
+3676 | Mario Tennis | 29.99 | 3
+7972 | Zelda | 30.99 | 4
+9657 | Mario_Cart | 14.99 | 3
+6348 | Mario | 23.99 | 3
+3800 | Table tennis simulator | 14.99 | 4
+9358 | luigi mansion 3 | 39.99 | 4
+2392 | Mario Odyssey  | 29.99 | 4
+8277 | Mario Cart  | 29.99 | 4
+8411 | Luigi Mansion | 29.99 | 4
+6040 | Mario Tennis | 20.99 | 3
+8502 | Mario Cart  | 24.99 | 3
+6242 | Zelda 3  | 29.99 | 4
+4962 | Bayonetta 2 | 29.99 | 5
+1740 | Pokemon Sword & Sheild  | 4 | 5
+4567 | Zelda | 25.99 | 3
